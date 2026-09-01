@@ -1,0 +1,11 @@
+numero_ordine,data,stato
+ORD-0001,2026-08-01,consegnato
+ORD-0002,2026-08-03,in transito
+ORD-0003,2026-08-05,non consegnato
+ORD-0004,2026-08-07,in ritardo
+ORD-0005,2026-08-09,consegnato
+ORD-0006,2026-08-11,in transito
+ORD-0007,2026-08-13,consegnato
+ORD-0008,2026-08-15,in ritardo
+ORD-0009,2026-08-17,non consegnato
+ORD-0010,2026-08-19,consegnato
